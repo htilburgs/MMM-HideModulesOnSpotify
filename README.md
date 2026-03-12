@@ -12,14 +12,14 @@ Clone this repository in your modules folder, and install dependencies:
 ```
 cd ~/MagicMirror/modules
 git clone https://github.com/htilburgs/MMM-HideModulesOnSpotify.git
-cd MMM-HideModulesOnSpotify.git
+cd MMM-HideModulesOnSpotify
 npm install
 ```
 
 ## Update
 When you need to update this module:
 ```
-cd ~/MagicMirror/modules/MMM-HideModulesOnSpotify.git
+cd ~/MagicMirror/modules/MMM-HideModulesOnSpotify
 git pull
 npm install
 ```
