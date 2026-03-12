@@ -43,7 +43,7 @@ Add the module to your modules array in your config.js.
 |modulesToHide      | Array of module(s) you like to hide. Fill in the exact module Name as in your config.js
 
 ## Versions
-#### v1.0.0 (12-03-2026): Initial version)
+#### v1.0.0 (12-03-2026): Initial version
 
 ## License
 ### The MIT License (MIT)
