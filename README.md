@@ -30,7 +30,7 @@ Go to the MagicMirror/config directory and edit the config.js file. <br/>
 Add the module to your modules array in your config.js.
 ```
 {
-      module: "MMM-HideModules",
+      module: "MMM-HideModulesOnSpotify",
       config: {
             modulesToHide: ["clock","calendar"]
       }
